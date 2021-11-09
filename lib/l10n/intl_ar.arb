@@ -1,0 +1,28 @@
+{
+  "@@locale" :   "ar" ,
+  "@@lastmodified": "2018-05-20T17:16:46.997414",
+  "loading": "جاري التحميل...",
+  "@loading": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hello": "مرحباا ",
+  "@hello": {
+    "type": "text",
+    "placeholders": {}
+  },
+"email": "البريد الالكتروني",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+
+ 
+   
+   
+ }
+
+ 
+
+

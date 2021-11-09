@@ -1,0 +1,23 @@
+{
+  "@@locale" :   "en" ,
+  "@@lastmodified": "2018-05-20T17:16:46.997414",
+  "loading": "Loading....",
+  "@loading": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hello": "hello",
+  "@hello": {
+    "type": "text",
+    "placeholders": {}
+  },
+"email": "Email",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+}
+
+ 
+
+
